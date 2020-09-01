@@ -1,9 +1,7 @@
- 
- # Here is a heading
+# Here is a heading
 
- some text
+some text
 
- ## here is a smaller heading
-
- 	- with some 
- 	- bullet points
+## here is a smaller heading
+- with some 
+- bullet points
